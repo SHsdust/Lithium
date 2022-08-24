@@ -4,3 +4,4 @@
 /build/Makefile
 /build/objs
 /build/woboqgen.sh
+/.ccls-cache
