@@ -1,4 +1,4 @@
-Airplane Fight Game
+# Airplane Fight Game
 
 A 2D game written in C++ using SDL2
 
