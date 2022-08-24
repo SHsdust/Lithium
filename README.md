@@ -1,4 +1,4 @@
-# Airplane Fight Game
+Airplane Fight Game
 
 A 2D game written in C++ using SDL2
 
@@ -15,25 +15,5 @@ A 2D game written in C++ using SDL2
   
   ./lithium-app
   ```
-
-- **Scrrenshot **
-
-  ![image-20220824194628003](/home/emrys/.config/Typora/typora-user-images/image-20220824194628003.png)
-
-  
-
-  ![image-20220824194736567](/home/emrys/.config/Typora/typora-user-images/image-20220824194736567.png)
-
-  
-
-  ​	![image-20220824194851359](/home/emrys/.config/Typora/typora-user-images/image-20220824194851359.png)
-
-  
-
-  
-
-  
-
-  
 
   
