@@ -1,6 +1,6 @@
 /woboq
 /build/compile_commands.json
 /build/llithium-app
-/build/MakeFile
+/build/Makefile
 /build/objs
 /build/woboqgen.sh
